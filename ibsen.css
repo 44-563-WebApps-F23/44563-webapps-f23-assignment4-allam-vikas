@@ -18,3 +18,33 @@
 .hovstad {
     color:blue;
 }
+table {
+    border-collapse: collapse;
+}
+th {
+    color:seagreen
+}
+th,td {
+    border:solid;
+    border-color: black;
+    padding:20px 100px;
+    text-align:left;
+}
+tr:nth-child(even) {
+    background-color:lightgrey;
+  }
+.Navbar-horizontal {
+    list-style-type: none;
+    padding:0;
+    margin:0;
+}
+.Navbar-horizontal li {
+    float:left;
+    padding:10px;
+    border:solid;
+    background-color:lightblue;
+}
+.Navbar-horizontal a {
+    text-decoration: none;
+    color:black;
+}
