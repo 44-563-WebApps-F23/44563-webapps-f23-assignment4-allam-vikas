@@ -1,0 +1,20 @@
+.speech {
+   font-family: "Gill Sans Extrabold", sans-serif;
+   color:black;
+   font-size: 12px;
+}
+.direction {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 14px;
+    background-color: lightgreen;
+}
+.direction:hover {
+    color:red;
+    background-color: blanchedalmond;
+}
+.billing {
+    color:crimson;
+}
+.hovstad {
+    color:blue;
+}
